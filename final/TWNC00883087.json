@@ -1,0 +1,167 @@
+﻿{
+ "報告編號": "TWNC00883087",
+ "樣品名稱": "Ferrite Chip Bead, Inductor",
+ "檢測日期": "May 13, 2020",
+ "測試項目": [
+  [
+   "Cadmium (Cd) Content  鎘含量",
+   "ND",
+   "2"
+  ],
+  [
+   "Lead (Pb) Content  鉛含量",
+   "ND",
+   "2"
+  ],
+  [
+   "Mercury (Hg) Content  汞含量",
+   "ND",
+   "2"
+  ],
+  [
+   "Chromium VI (Cr(VI)) Content  六價鉻含量",
+   "ND",
+   "8"
+  ],
+  [
+   "Monobrominated Biphenyls (MonoBB) 單溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Dibrominated Biphenyls  (DiBB) 二溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Tribrominated Biphenyls  (TriBB) 三溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Tetrabrominated Biphenyls (TetraBB) 四溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Pentabrominated Biphenyls (PentaBB) 五溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Hexabrominated Biphenyls (HexaBB) 六溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Heptabrominated Biphenyls (HeptaBB) 七溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Octabrominated Biphenyls (OctaBB) 八溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Nonabrominated Biphenyls (NonaBB) 九溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Decabrominated Biphenyl (DecaBB) 十溴聯苯",
+   "ND",
+   "5"
+  ],
+  [
+   "Monobrominated Diphenyl Ethers (MonoBDE) 單溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Dibrominated Diphenyl Ethers (DiBDE) 二溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Tribrominated Diphenyl Ethers (TriBDE) 三溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Tetrabrominated Diphenyl Ethers (TetraBDE) 四溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Pentabrominated Diphenyl Ethers (PentaBDE) 五溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Hexabrominated Diphenyl Ethers (HexaBDE) 六溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Heptabrominated Diphenyl Ethers (HeptaBDE) 七溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Octabrominated Diphenyl Ethers (OctaBDE) 八溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Nonabrominated Diphenyl Ethers (NonaBDE) 九溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Decabrominated Diphenyl Ether (DecaBDE) 十溴聯苯醚",
+   "ND",
+   "5"
+  ],
+  [
+   "Di(2-ethylhexyl) Phthalate (DEHP) 鄰苯二甲酸二(2-乙基己基)酯",
+   "ND",
+   "50"
+  ],
+  [
+   "Dibutyl Phthalate (DBP)  鄰苯二甲酸二丁酯",
+   "ND",
+   "50"
+  ],
+  [
+   "Benzyl Butyl Phthalate (BBP) 鄰苯二甲酸苯基丁酯",
+   "ND",
+   "50"
+  ],
+  [
+   "Diisobutyl Phthalate (DIBP) 鄰苯二甲酸二異丁酯",
+   "ND",
+   "50"
+  ],
+  [
+   "Fluorine (F) 氟",
+   "ND",
+   "50"
+  ],
+  [
+   "Chlorine (Cl) 氯",
+   "ND",
+   "50"
+  ],
+  [
+   "Bromine (Br) 溴",
+   "ND",
+   "50"
+  ],
+  [
+   "Iodine (I) 碘",
+   "ND",
+   "50"
+  ]
+ ]
+}
